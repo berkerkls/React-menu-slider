@@ -14,11 +14,5 @@ export const Navdata = [
         path: "/education",
         icon: <GoIcons.GoBook />,
         cName: "nav-text"
-    },
-    {
-        title: "About",
-        path: "/",
-        icon: <AiIcons.AiOutlineInfoCircle />,
-        cName: "nav-text"
-    },
+    }
 ]
